@@ -16,4 +16,4 @@ Host the website locally to port 8888 with python
 python3 -m http.server 8888
 ```
 
-> It is recommended to run all processes inside of an env.
+> It is recommended to run all processes inside of a venv.
