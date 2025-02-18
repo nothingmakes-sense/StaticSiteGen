@@ -17,3 +17,9 @@ python3 -m http.server 8888
 ```
 
 > It is recommended to run all processes inside of a venv.
+
+> Examples of properly hosted site
+
+![generatedMainPage](/images/generatedMainPage.PNG)
+
+![generatedSecondPage](/images/generatedSecondPage.PNG)
